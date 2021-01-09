@@ -38,6 +38,7 @@ const personalMovieDB = {
 //         i--;
 //     }
 // }
+let i = 0;
 
 while (i < 2) {
     const a = prompt('Один из последних просмотренных фильмов?',''),
