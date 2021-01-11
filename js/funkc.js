@@ -27,3 +27,5 @@ const logger = function() {
     console.log('Hello');
 };
 logger()
+
+const calcc = (a, b) => a + b;
